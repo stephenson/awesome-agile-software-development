@@ -24,3 +24,5 @@ Our goal was to find the way to pay the lowest tax bracket while getting all the
 - [This Product Prioritization System Nabbed Pandora 70 Million Monthly Users with Just 40 Engineers](http://firstround.com/review/This-Product-Prioritization-System-Nabbed-Pandora-More-Than-70-Million-Active-Monthly-Users-with-Just-40-Engineers/) - by First Round Review. "It turns out 50 of the things we didn't do, no one thinks are important anymore. That's when you step back and say wow, we're not ready for a long-term roadmap."
 
 - [What Are the Best Ways to Prioritize a List of Product Features?](https://www.quora.com/Product-Management/What-are-the-best-ways-to-prioritize-a-list-of-product-features) - over 70 great answers on Quora.com
+
+- [The roadmap is dead](https://www.stephenson.dk/the-roadmap-is-dead/) - When you are working within product management there is a few principles that you need to accept and all of them point in a direction where the typical roadmap is dead.
